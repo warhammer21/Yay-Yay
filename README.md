@@ -1,4 +1,4 @@
-Hi, thanks for checking out my repo! <br />
+Hi,  <br /> thanks for checking out my repo! <br />
 below are the following deliverables <br />
 Jupiter notebook= Yay-Yay.ipynb <br />
 users forecast =  initial_users_gmv.csv <br />
